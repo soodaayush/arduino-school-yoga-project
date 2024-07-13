@@ -4,7 +4,7 @@
 
 ## Inspiration
 
-I was tasked with producing a physical project for my Yoga exam, which is to demonstrate what I have learnt from the course. I thought making a reminder using an Adruino would be a great idea, since it makes for a good starter project with Arduino.
+I was tasked with producing a physical project for my Yoga exam, which is to demonstrate what I have learnt from the course. I thought making a reminder using an Arduino would be a great idea, since it makes for a good starter project.
 
 ## Challenges
 
