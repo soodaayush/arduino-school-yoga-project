@@ -12,4 +12,4 @@ The challenges faced when creating this was connecting the wires to their respec
 
 ## The Project
 
-Built this for a final Yoga project in school, this displays reminders tell you meditate, stretch, etc.
+Built this for a final Yoga exam in school, the LED screen is powered by wires from the Arduino, which is loaded with instructions to print Yoga reminders. It reminds you to remember to meditate.
