@@ -4,16 +4,16 @@
 
 ## Inspiration
 
-I was tasked with producing a physical project for my Yoga exam, which is to demonstrate what I have learnt from the course. I thought making a reminder using an Arduino would be a great idea, since it makes for a good starter project.
+I was tasked with producing a physical project for my Yoga exam to demonstrate what I have learned from the course. I thought making a reminder using an Arduino would be a great idea, as it makes for a good starter project.
 
 ## Challenges
 
-The challenges faced when creating this was connecting the wires to their respective spots and making sure they don't become loose.
+The challenges faced while creating this project included connecting the wires to their respective spots and ensuring they remained secure.
 
 ## Lessons Learned
 
-I learned the basics of how hardware works and how to print to an LED screen.
+I learned the basics of how hardware works and how to print to an LCD screen.
 
 ## The Project
 
-Built this for a final Yoga exam in school, the LED screen is powered by wires from the Arduino, which is loaded with instructions to print Yoga reminders. It reminds you to remember to meditate.
+Built for a final Yoga exam, this project features an LCD screen powered by an Arduino. The Arduino is programmed to display Yoga reminders, helping users remember to meditate.
