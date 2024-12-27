@@ -12,7 +12,7 @@ The challenges faced while creating this project included connecting the wires t
 
 ## Lessons Learned
 
-I learned the basics of how hardware works and how to print to an LCD screen.
+I learned the basics of how the Arduino and Breadboard work, the process of printing to an LCD screen, and uploading code from Arduino IDE to the microcontroller.
 
 ## The Project
 
