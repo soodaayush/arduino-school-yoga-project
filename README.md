@@ -4,16 +4,21 @@
 
 ## Inspiration
 
-I was tasked with producing a physical project for my Yoga exam to demonstrate what I have learned from the course. I thought making a reminder using an Arduino would be a great idea, as it makes for a good starter project.
+For my final Yoga exam, I wanted to blend mindfulness with making. Instead of a traditional paper or presentation, I built a physical reminder using an Arduino. This project serves as a practical demonstration of my learning, combining yoga principles with beginner electronics and coding.
 
 ## Challenges
 
-The challenges faced while creating this project included connecting the wires to their respective spots and ensuring they remained secure.
+- Getting all the jumper wires correctly placed and secured on the breadboard
+- Learning how to interface an LCD screen with the Arduino
+- Uploading and debugging code using the Arduino IDE
 
 ## Lessons Learned
 
-I learned the basics of how the Arduino and Breadboard work, the process of printing to an LCD screen, and uploading code from Arduino IDE to the microcontroller.
+- How to connect and power components on a breadboard
+- How to use an LCD screen with an Arduino
+- How to write and upload Arduino code
+- The basics of electronics and microcontroller programming
 
 ## The Project
 
-Built for a final Yoga exam, this project features an LCD screen powered by an Arduino. The Arduino is programmed to display Yoga reminders, helping users remember to meditate.
+A simple and meaningful Arduino-based device that reminds users to meditate, created as part of a final Yoga exam.
